@@ -9,7 +9,7 @@ venv/
 
 # Data and models
 data/
-models/
+# models/ # Uncomment if you want to ignore model files
 
 # Notebooks
 .ipynb_checkpoints
